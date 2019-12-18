@@ -1,0 +1,84 @@
+F:\libraria\Libraria\obj\Debug\Libraria.csprojAssemblyReference.cache
+F:\libraria\Libraria\obj\Debug\Libraria.BaseForm.resources
+F:\libraria\Libraria\obj\Debug\Libraria.Properties.Resources.resources
+F:\libraria\Libraria\obj\Debug\Libraria.csproj.GenerateResource.cache
+F:\libraria\Libraria\obj\Debug\Libraria.csproj.CoreCompileInputs.cache
+F:\libraria\Libraria\bin\Debug\Libraria.exe.config
+F:\libraria\Libraria\bin\Debug\Libraria.exe
+F:\libraria\Libraria\bin\Debug\Libraria.pdb
+F:\libraria\Libraria\obj\Debug\Libraria.csproj.CopyComplete
+F:\libraria\Libraria\obj\Debug\Libraria.exe
+F:\libraria\Libraria\obj\Debug\Libraria.pdb
+F:\libraria\Libraria\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\libraria\Libraria\obj\Debug\Libraria.Login.resources
+F:\libraria\Libraria\obj\Debug\Libraria.frmMainForm.resources
+F:\libraria\Libraria\obj\Debug\Libraria.frmPersonat.resources
+F:\libraria\Libraria\obj\Debug\Libraria.frmShtepiteBotuese.resources
+F:\libraria\Libraria\obj\Debug\Libraria.frmPunetoret.resources
+F:\libraria\Libraria\obj\Debug\Libraria.frmLibrat.resources
+F:\libraria\Libraria\obj\Debug\Libraria.frmFaturaD.resources
+F:\libraria\Libraria\obj\Debug\Libraria.frmFaturaH.resources
+F:\libraria\Libraria\obj\Debug\Libraria.frmListaFaturave.resources
+Z:\libraria\libraria\bin\Debug\Libraria.exe.config
+Z:\libraria\libraria\bin\Debug\Libraria.exe
+Z:\libraria\libraria\bin\Debug\Libraria.pdb
+Z:\libraria\libraria\bin\Debug\Oracle.ManagedDataAccess.dll
+Z:\libraria\libraria\obj\Debug\Libraria.csprojAssemblyReference.cache
+Z:\libraria\libraria\obj\Debug\Libraria.BaseForm.resources
+Z:\libraria\libraria\obj\Debug\Libraria.frmLibrat.resources
+Z:\libraria\libraria\obj\Debug\Libraria.frmListaFaturave.resources
+Z:\libraria\libraria\obj\Debug\Libraria.frmPersonat.resources
+Z:\libraria\libraria\obj\Debug\Libraria.frmPunetoret.resources
+Z:\libraria\libraria\obj\Debug\Libraria.Login.resources
+Z:\libraria\libraria\obj\Debug\Libraria.frmMainForm.resources
+Z:\libraria\libraria\obj\Debug\Libraria.Properties.Resources.resources
+Z:\libraria\libraria\obj\Debug\Libraria.frmShtepiteBotuese.resources
+Z:\libraria\libraria\obj\Debug\Libraria.csproj.GenerateResource.cache
+Z:\libraria\libraria\obj\Debug\Libraria.csproj.CoreCompileInputs.cache
+Z:\libraria\libraria\obj\Debug\Libraria.csproj.CopyComplete
+Z:\libraria\libraria\obj\Debug\Libraria.exe
+Z:\libraria\libraria\obj\Debug\Libraria.pdb
+Z:\libraria\libraria\obj\Debug\Libraria.frmFatura.resources
+Z:\libraria\libraria\obj\Debug\Libraria.QueryForm.resources
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\bin\Debug\Libraria.exe.config
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\bin\Debug\Libraria.exe
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\bin\Debug\Libraria.pdb
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\obj\Debug\Libraria.csprojAssemblyReference.cache
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\obj\Debug\Libraria.BaseForm.resources
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\obj\Debug\Libraria.frmFatura.resources
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\obj\Debug\Libraria.frmLibrat.resources
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\obj\Debug\Libraria.frmListaFaturave.resources
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\obj\Debug\Libraria.frmPersonat.resources
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\obj\Debug\Libraria.frmPunetoret.resources
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\obj\Debug\Libraria.Login.resources
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\obj\Debug\Libraria.frmMainForm.resources
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\obj\Debug\Libraria.Properties.Resources.resources
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\obj\Debug\Libraria.QueryForm.resources
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\obj\Debug\Libraria.frmShtepiteBotuese.resources
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\obj\Debug\Libraria.csproj.GenerateResource.cache
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\obj\Debug\Libraria.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\obj\Debug\Libraria.csproj.CopyComplete
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\obj\Debug\Libraria.exe
+C:\Users\eduar\Desktop\Libraria Versioni Final\libraria\obj\Debug\Libraria.pdb
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\bin\Debug\Libraria.exe.config
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\bin\Debug\Libraria.exe
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\bin\Debug\Libraria.pdb
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\obj\Debug\Libraria.csprojAssemblyReference.cache
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\obj\Debug\Libraria.BaseForm.resources
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\obj\Debug\Libraria.frmFatura.resources
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\obj\Debug\Libraria.frmLibrat.resources
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\obj\Debug\Libraria.frmListaFaturave.resources
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\obj\Debug\Libraria.frmPersonat.resources
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\obj\Debug\Libraria.frmPunetoret.resources
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\obj\Debug\Libraria.Login.resources
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\obj\Debug\Libraria.frmMainForm.resources
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\obj\Debug\Libraria.Properties.Resources.resources
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\obj\Debug\Libraria.QueryForm.resources
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\obj\Debug\Libraria.frmShtepiteBotuese.resources
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\obj\Debug\Libraria.csproj.GenerateResource.cache
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\obj\Debug\Libraria.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\obj\Debug\Libraria.csproj.CopyComplete
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\obj\Debug\Libraria.exe
+C:\Users\eduar\Documents\GitHub\LibrariaDB\Aplikacioni\libraria\obj\Debug\Libraria.pdb
